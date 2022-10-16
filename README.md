@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi there, 
+I'm Luana Mayumi, 31. 
+And today I'm living in São Paulo 👋
+
+#### ✨ I’m currently learning JavaScript and others languages to start working on Technology's field as a web developer.
 
 <!--
 **LuanaMayumi/LuanaMayumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
