@@ -1,8 +1,7 @@
-## Hi there, 
-I'm Luana Mayumi, 31. 
-And today I'm living in São Paulo 👋
-
-#### ✨ I’m currently learning JavaScript and others languages to start working on Technology's field as a web developer.
+## ✨  Hi there, 
+I'm Luana Mayumi, 31 and I'm always trying to get out of my confort zone.
+I believe that from this we can discover the best of ourselves.
+#### I’m currently learning JavaScript and others languages to start working in the Technology field as a web developer and I hope to be able to use my strong skills to achieve my personal and professional growth. 🍃
 
 <!--
 **LuanaMayumi/LuanaMayumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,8 +19,8 @@ Here are some ideas to get you started:
 -->
 <hr>
 
-## Languages and tools:
-<br>
+# Languages and tools:
+
 <div>
  
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
