@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 <hr>
 
-# Languages and tools:
+# Skills:
 
 <div align="center">
  
