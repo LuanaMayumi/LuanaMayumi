@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 <hr>
 
-# Technologies and Tools:
+### :computer: Technologies and Tools:
 
 <div align="center">
  
@@ -34,7 +34,9 @@ Here are some ideas to get you started:
 </div>
 <br>
 
-# To learn:
+### :pushpin: On my study list:
+
+### :chart_with_upwards_trend: Statistcs:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuanaMayumi&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
