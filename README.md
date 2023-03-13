@@ -19,9 +19,10 @@ Here are some ideas to get you started:
 -->
 <hr>
 
-### :computer: Technologies and Tools:
-
-<div align="center">
+<div align="left">
+ 
+ ### :computer: Technologies and Tools:
+ <br>
  
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
@@ -34,9 +35,18 @@ Here are some ideas to get you started:
 </div>
 <br>
 
-### :pushpin: On my study list:
+
+<div align="left">
+ 
+ ### :pushpin: I'm studying now:
+ <br>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
+ 
+ </div>
 
 ### :chart_with_upwards_trend: Statistcs:
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuanaMayumi&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
