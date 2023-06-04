@@ -13,7 +13,7 @@
  <br>
  Atualmente moro em São Paulo e amo seguir minha rotina de estudos, treino e boa alimentação.
  <br>
- Me apaixonei pela área da tecnologia pois acredito que podemos contribuir para o acanço da sociedade, me colocando em um ambiente de aprendizado contínuo.
+ Me apaixonei por programação pois através da tecnologia podemos contribuir para o avanço da sociedade e como bônus, acabe me colocando em um ambiente de aprendizado contínuo.
  <br>
  <br>
  Sou formada como Desenvolvedora Front-End pela Trybe e estou cursando o módulo de Back-End para iniciar minha carreira na área de Tecnologia, eu espero usar minhas habilidades para alcançar meus objetivos   pessoais a profissionais
