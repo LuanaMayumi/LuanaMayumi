@@ -59,14 +59,20 @@
 </div>
  
 <div align="center">
+ 
 ### :speech_balloon: Fale comigo:
 <br>
  <a href="" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/luana-mayumi-dev/)">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/luana-mayumi-dev/)">
  </a>
+ <a href = "mailto:luh.mayumi@gmail.com"> <img src="https://img.shields.io/badge/-Email-f54138?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
+ <br>
+ <div align="center">
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuanaMayumi&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+ </div>
 
 <!--
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LuanaMayumi&theme-midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
