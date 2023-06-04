@@ -9,9 +9,9 @@
  
   ### Meu nome é Luana, mais conhecida como Lua :waning_gibbous_moon:
  <br>
- Tenho 31 anos e estou sempre tentando sair da minha zona de conforto, acredito que a partir disso podemos descobrir o que temos de melhor.
+ Tenho 31 anos e estou sempre tentando sair da minha zona de conforto, acredito que dessa maneira podemos alcançar o que pensávamos ser im**possivel**. ~~Riscado~~ 
  <br>
- Atualmente moro em São Paulo e amo seguir minha rotina de estudos, treino e boa alimentação.
+ Atualmente moro em São Paulo e amo seguir minha rotina de *Middlewares* *estudos*, treino e boa alimentação*.
  <br>
  Me apaixonei pela área da tecnologia pois acredito que podemos contribuir para o acanço da sociedade, me colocando em um ambiente de aprendizado contínuo.
  <br>
